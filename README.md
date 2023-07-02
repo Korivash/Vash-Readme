@@ -28,9 +28,9 @@ Syntax is equipped with an AI response feature. By mentioning Syntax in your mes
 
 ## :incoming_envelope: Inviting Syntax to Your Server
 
-To invite Syntax to your server, you will need Syntax's invite link. This is usually provided by the bot's developer. Once you have the link, follow these steps:
+To invite Syntax to your server.
 
-1. Click on the link. This will open a new page in your web browser.
+1. Click on the link. This will open a new page in your web browser. https://discord.com/api/oauth2/authorize?client_id=1013711215949774899&permissions=8&scope=bot
 2. Select the server you want to add Syntax to from the dropdown menu.
 3. Click on the "Authorize" button.
 4. Complete the CAPTCHA if it appears.
