@@ -9,7 +9,7 @@ Syntax uses slash commands, which are a type of command that starts with a `/`. 
 - `/github`
 - `/playlist`
 - `/socials`
-- `/setlogchannel` (Coming Soon)
+- `/setlogchannel`
 
 ## :hammer_and_wrench: Mod Features
 
