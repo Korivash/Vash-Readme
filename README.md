@@ -18,12 +18,13 @@ Syntax uses slash commands, which are a type of command that starts with a `/`. 
 
 Syntax provides a set of moderation features that listen to various events and perform actions based on these events. Here are the events Syntax listens to:
 
-1. `messageCreate`
-2. `messageDelete`
-3. `guildBanAdd`
-4. `guildMemberUpdate`
-5. `guildMemberAdd`
-6. `guildMemberRemove`
+1. `messageDelete`
+2. `guildBanAdd`
+3. `guildMemberUpdate`
+4. `guildMemberAdd`
+5. `guildMemberRemove`
+
+
 
 ## :robot: AI Response
 
