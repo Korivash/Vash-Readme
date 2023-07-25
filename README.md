@@ -7,6 +7,7 @@ Welcome to Syntax, a Discord bot designed to enhance your server experience. Thi
 Syntax uses slash commands, which are a type of command that starts with a `/`. Here are the commands available:
 
 - `/github`
+- `/clarify` Get Real time Fact checking on anything you ask.
 - `/playlist`
 - `/socials`
 - `/setlogchannel` Admins Only
