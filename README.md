@@ -18,7 +18,7 @@ Syntax uses slash commands, which are a type of command that starts with a `/`. 
 
 ## :hammer_and_wrench: Mod Features
 
-Syntax provides a set of moderation features that listen to various events and perform actions based on these events. Here are the events Syntax listens to:
+Syntax provides a database that listen to various events and perform actions based on these events. Here are the events Syntax listens to:
 
 1. `messageDelete`
 2. `guildBanAdd`
@@ -45,4 +45,6 @@ Syntax should now be added to your server.
 
 ## :question: Need Help?
 
-If you have any questions or run into any issues, please contact Https://www.discord.gg/syntaxdevelopment
+Contact Korivash on Discord.
+
+## More Features being added as i come across stuff useful for discord communites!
