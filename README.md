@@ -10,6 +10,7 @@ Syntax uses slash commands, which are a type of command that starts with a `/`. 
 - `/clarify` Get Real time Fact checking on anything you ask.
 - `/playlist`
 - `/socials`
+- `/songrequest` Search any song from youtube.
 - `/setlogchannel` Admins Only
 - `/purge` Admins Only
 - `/kick` Admin Only
