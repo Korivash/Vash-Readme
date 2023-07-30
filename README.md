@@ -25,6 +25,7 @@ Vash provides a database that listen to various events and perform actions based
 3. `guildMemberUpdate`
 4. `guildMemberAdd`
 5. `guildMemberRemove`
+6. ` And More `
 
 
 
