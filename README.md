@@ -27,6 +27,12 @@ Vash provides a database that listen to various events and perform actions based
 5. `guildMemberRemove`
 6. ` And More `
 
+## Pokemon Game Coming to Premium Users
+1. `over 300+ pokemon loaded in a database`
+2. `pokemone will spawn in chat with a embeded message`
+3. `Players use !cach to catch the pokemon`
+4. `Only one person can catch the pokemon with a 40% chance of chatching it `
+5. `Pokemon battle system and index coming soon`
 
 
 ## :robot: AI Response
