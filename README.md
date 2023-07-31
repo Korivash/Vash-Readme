@@ -31,7 +31,7 @@ Vash provides a database that listen to various events and perform actions based
 1. `over 300+ pokemon loaded in a database with more being added`
 2. `pokemone will spawn in chat with a embeded message`
 3. `Players use !catch to catch the pokemon`
-4. `Only one person can catch the pokemon with a 40% chance of chatching it `
+4. `Only one person can catch the pokemon with a 40% chance of catching it `
 5. `Pokemon battle system and index coming soon`
 
 
