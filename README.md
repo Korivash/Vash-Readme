@@ -61,6 +61,9 @@ To invite Vash to your server.
 
 Vash should now be added to your server.
 
+## Support Vash and Become a Premium Member
+https://www.patreon.com/Korivash/membership
+
 ## :question: Need Help?
 
 Contact Korivash on Discord.
