@@ -34,7 +34,7 @@ Vash contains three simple text-based games that you can play in Discord with sl
 
 Vash provides a database that listen to various events and perform actions based on these events. Here are the events Vash listens to:
 
-1.- `/setlogchannel` Admins Only To Setup
+1.  `/setlogchannel` Only Admins Can Setup This Feature.
 2. `messageDelete`
 3. `guildBanAdd`
 4. `guildMemberUpdate`
