@@ -27,13 +27,19 @@ Vash contains three simple text-based games that you can play in Discord with sl
 
 ## :hammer_and_wrench: Mod Features
 
+- `/setlogchannel` Admins Only
+- `/purge` Admins Only
+- `/kick` Admin Only
+- `/ban` Admin Only
+
 Vash provides a database that listen to various events and perform actions based on these events. Here are the events Vash listens to:
 
-1. `messageDelete`
-2. `guildBanAdd`
-3. `guildMemberUpdate`
-4. `guildMemberAdd`
-5. `guildMemberRemove`
+1.- `/setlogchannel` Admins Only To Setup
+2. `messageDelete`
+3. `guildBanAdd`
+4. `guildMemberUpdate`
+5. `guildMemberAdd`
+6. `guildMemberRemove`
 
 
 
