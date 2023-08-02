@@ -64,7 +64,7 @@ Vash should now be added to your server.
 ## Support Vash and Become a Premium Member
 https://www.patreon.com/Korivash/membership
 
-## :question: Need Help?
+## Need Help  :question: 
 
 Contact Korivash on Discord.
 
