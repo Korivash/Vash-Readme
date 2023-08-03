@@ -25,6 +25,27 @@ Vash contains three simple text-based games that you can play in Discord with sl
 
 - 2048 🧩: Try to beat your speed run record of playing 2048.
 
+##  **Pokémongame** 🔥
+
+📋 **Features**
+
+- ⚔️ `/pokemon`: Use this command to encounter a random Pokémon from a diverse pool of 300+ species, with new ones being added regularly. The encounter will last for 24 hours. To catch the Pokémon, try using a `pokeball` for a 50% chance of success or a rare `masterball` for a guaranteed catch. Keep in mind that `masterballs` have a cooldown, allowing only two uses every four hours.
+
+- 📚 `/pokedex`: Check your current collection of caught Pokémon and show off your impressive Pokémon collection to other users.
+
+- 🎯 `/pokebattle`: Challenge other users to a Pokémon battle! While currently generating random logic battles, we have an exciting turn-based battle system in the works for future updates.
+
+🚀 **How to Use**
+
+
+1. Use the commands in any channel on your server:
+
+   - To encounter a Pokémon: `/pokemon`
+   - To view your Pokédex: `/pokedex`
+   - To battle another user: `/pokebattle`
+
+
+
 ## :hammer_and_wrench: Mod Features
 
 - `/setlogchannel` Admins Only
