@@ -6,10 +6,10 @@ Welcome to Vash, a Discord bot designed to enhance your server experience. This 
 
 Vash uses slash commands, which are a type of command that starts with a `/`. Here are the commands available:
 
-- `/github`
+- `/documentation` Vash Documentation
 - `/clarify` Get Real time Fact checking on anything you ask, Powered by Clarity Bot ( Check out @bogdantimes on Twitter )
-- `/playlist`
-- `/socials`
+- `/playlist` My Spotify Playlist
+- `/socials` Vash Socials
 - `/timer` Time and Reason, Will countdown in a Embed message then @ the user when its done.
 - `/songrequest` Search any song from youtube.
 - `/setlogchannel` Admins Only
