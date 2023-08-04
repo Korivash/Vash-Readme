@@ -49,6 +49,7 @@ Vash contains three simple text-based games that you can play in Discord with sl
 ## :hammer_and_wrench: Mod Features :hammer_and_wrench:
 
 - `/setlogchannel` Admins Only
+- `/unsetlogchannel` Admins Only
 - `/purge` Admins Only
 - `/kick` Admin Only
 - `/ban` Admin Only
