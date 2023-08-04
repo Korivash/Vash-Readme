@@ -41,7 +41,7 @@ Vash contains three simple text-based games that you can play in Discord with sl
 1. Use the commands in any channel on your server:
 
    - To encounter a Pokémon: `/pokemon`
-   - To view your Pokédex: `/pokedex`
+   - To view your Pokédex: `/Vashdex`
    - To battle another user: `/pokebattle`
 
 
