@@ -6,7 +6,7 @@ Welcome to Vash, a Discord bot designed to enhance your server experience. This 
 
 Vash uses slash commands, which are a type of command that starts with a `/`. Here are the commands available:
 
-- `/documentation` Vash Documentation
+- `/help` Vash Documentation
 - `/clarify` Get Real time Fact checking on anything you ask, Powered by Clarity Bot ( Check out @bogdantimes on Twitter )
 - `/playlist` My Spotify Playlist
 - `/socials` Vash Socials
