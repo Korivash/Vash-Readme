@@ -10,7 +10,6 @@ Vash uses slash commands, which are a type of command that starts with a `/`. He
 - `/clarify` Get Real time Fact checking on anything you ask, Powered by Clarity Bot ( Check out @bogdantimes on Twitter )
 - `/playlist` My Spotify Playlist
 - `/socials` Vash Socials
-- `/timer` Time and Reason, Will countdown in a Embed message then @ the user when its done.
 - `/songrequest` Search any song from youtube.
 - `/setlogchannel` Admins Only
 - `/purge` Admins Only
