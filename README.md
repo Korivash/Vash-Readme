@@ -24,8 +24,7 @@
 
 🐦 Twitter Clarify Bot: Stay updated and clarify tweets without leaving your server with our /clarify command.
 
-
-Invite Vash: [invite link](https://discord.com/api/oauth2/authorize?client_id=1013711215949774899&permissions=8&scope=bot).
+[Invite Vash Here](https://discord.com/api/oauth2/authorize?client_id=1013711215949774899&permissions=8&scope=bot).
 
 # More Features Being Added Soon.
 
