@@ -12,6 +12,8 @@
 
 🎵 Music: Groove to your favorite tunes with our music commands.
 
+🎤 !voice Setup: Streamline your voice channels and reduce clutter with optimized channel generation.
+
 📊 Stats: Stay informed with server and user statistics.
 
 💡 Suggestions: Facilitate community feedback with a structured suggestion system.
@@ -21,6 +23,8 @@
 🔍 /help: Lost? Our comprehensive help command is here to guide you.
 
 🗣️ ChatGPT Integration: Engage with the cutting-edge ChatGPT for real-time interactions.
+
+📸 /createimage: Unlock the potential of visual content creation. (Note: This feature will become premium in the future.)
 
 🐦 Twitter Clarify Bot: Stay updated and clarify tweets without leaving your server with our /clarify command.
 
