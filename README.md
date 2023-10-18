@@ -26,7 +26,7 @@
 
 📸 /createimage: Unlock the potential of visual content creation. (Note: This feature will become premium in the future.)
 
-🐦 Twitter Clarify Bot: Stay updated and clarify tweets without leaving your server with our /clarify command.
+🐦 Twitter Clarify Bot: Stay updated and clarify any subject better then chatGPT without leaving your server with our /clarify command.
 
 [Invite Vash](https://discord.com/api/oauth2/authorize?client_id=1013711215949774899&permissions=8&scope=bot).
 
