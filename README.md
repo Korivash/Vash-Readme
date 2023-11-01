@@ -12,7 +12,7 @@
 - 🤝 Support Server: [Join Here](https://discord.gg/vashsupport)
 
 
-### 📡 **Advanced Dashboard**
+### 📡 **Advanced Dashboard** ( Coming Soon )
 
 - Manage your servers and make your server-specific settings!
 - Make custom adjustments easy!
