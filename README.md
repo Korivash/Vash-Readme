@@ -3,7 +3,7 @@
 
 <p align="center">Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...</p>
 
-[Vash Dashboard Control Panel](http://www.vash-bot.com/selector).
+[Vash Control Panel](http://www.vash-bot.com/selector).
 
 <br>
 
